@@ -21,11 +21,12 @@ Cuando el programa solicite un valor, introduce la cantidad utilizando números,
 Si deseas terminar la ejecución, selecciona la opción 5.
 
 Manejo de errores
- --El programa también cuenta con una validación para evitar que se cierre 
+
+--también cuenta con una validación para evitar que se cierre 
 cuando se introduce información incorrecta. Si se escribe un dato que no 
 corresponde a un número, aparecerá el mensaje "Valor inválido." y el programa
 volverá a mostrar el menú.
 
--- De igual manera, si se selecciona un número que no corresponde a ninguna
+-- si se selecciona un número que no corresponde a ninguna
 de las opciones disponibles, se mostrará "Opción no válida." y podrás
 continuar utilizando el conversor normalmente.
